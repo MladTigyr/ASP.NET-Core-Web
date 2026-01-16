@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\my_first_steps_into_asp_net_world\\mvcintro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9CB95E2D-6380-40B9-94F1-264915A6C5BB}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T12:46:01.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MvcIntro\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:38:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T12:26:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MvcIntro\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MvcIntro\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T12:21:28.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Program.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Program.cs",
+              "RelativeToolTip": "MvcIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:20:54.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcIntro\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\appsettings.json",
+              "RelativeToolTip": "MvcIntro\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T12:20:27.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MvcIntro\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MvcIntro\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-16T12:19:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcIntro\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcIntro\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-16T12:19:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T12:18:41.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T12:18:07.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MvcIntro\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:17:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\My_First_Steps_Into_ASP_NET_World\\MvcIntro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcIntro\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T12:16:18.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
