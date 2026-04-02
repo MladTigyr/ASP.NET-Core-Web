@@ -10,8 +10,8 @@ namespace MvcIntro.Controllers
             return View();
         }
 
-        [Route("Products/{id}")]
-        [Route("Products/Details/{id}")]
+        [Route("/Products/{id}")]
+        [Route("/Products/Details/{id}")]
         public IActionResult Details(int id)
         {
             if (id < 1)

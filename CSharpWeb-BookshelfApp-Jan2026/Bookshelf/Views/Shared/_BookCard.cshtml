@@ -1,0 +1,10 @@
+﻿@model Book
+<div class="card mb-2">
+    <div class="card-body">
+        <h5 class="card-title mb-1">@Model.Title</h5>
+        <div class="text-muted">
+            Year: @Model.Year • Author: @(Model.Author.Name ?? "Unknown")
+        </div>
+    </div>
+</div>
+

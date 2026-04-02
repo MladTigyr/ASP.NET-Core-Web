@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\views\\garage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\views\\garage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\views\\garage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\views\\garage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\controllers\\garagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\controllers\\garagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\migrations\\20260116171006_addgarageandcarseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\migrations\\20260116171006_addgarageandcarseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\data\\garagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\data\\garagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\data\\configurations\\garageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\data\\configurations\\garageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\data\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\migrations\\20260116165138_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\migrations\\20260116165138_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\migrations\\garagedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\migrations\\garagedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\models\\enums\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\models\\enums\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\controllers_and_routing_with_ef_core\\garageapp\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5B7971-2BCA-4ABA-A44D-17D038E21275}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GarageApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\appsettings.Development.json",
+              "RelativeToolTip": "GarageApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T20:20:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GarageApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GarageApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T17:34:35.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Car\\Details.cshtml",
+              "RelativeDocumentMoniker": "GarageApp\\Views\\Car\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Car\\Details.cshtml",
+              "RelativeToolTip": "GarageApp\\Views\\Car\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T17:32:58.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "GarageApp\\Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "GarageApp\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T17:32:10.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Garage\\Details.cshtml",
+              "RelativeDocumentMoniker": "GarageApp\\Views\\Garage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Garage\\Details.cshtml",
+              "RelativeToolTip": "GarageApp\\Views\\Garage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T17:31:30.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Garage\\Index.cshtml",
+              "RelativeDocumentMoniker": "GarageApp\\Views\\Garage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Views\\Garage\\Index.cshtml",
+              "RelativeToolTip": "GarageApp\\Views\\Garage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T17:29:29.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Controllers\\CarController.cs",
+              "RelativeToolTip": "GarageApp\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:13:30.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GarageController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Controllers\\GarageController.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Controllers\\GarageController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Controllers\\GarageController.cs",
+              "RelativeToolTip": "GarageApp\\Controllers\\GarageController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:11:59.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260116171006_AddGarageAndCarSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Migrations\\20260116171006_AddGarageAndCarSeedData.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Migrations\\20260116171006_AddGarageAndCarSeedData.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Migrations\\20260116171006_AddGarageAndCarSeedData.cs",
+              "RelativeToolTip": "GarageApp\\Migrations\\20260116171006_AddGarageAndCarSeedData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:10:06.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Data\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Data\\Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Data\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "GarageApp\\Data\\Configurations\\CarConfiguration.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:00:08.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GarageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Data\\Configurations\\GarageConfiguration.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Data\\Configurations\\GarageConfiguration.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Data\\Configurations\\GarageConfiguration.cs",
+              "RelativeToolTip": "GarageApp\\Data\\Configurations\\GarageConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:58:15.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GarageDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Migrations\\GarageDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Migrations\\GarageDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Migrations\\GarageDbContextModelSnapshot.cs",
+              "RelativeToolTip": "GarageApp\\Migrations\\GarageDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:52:35.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260116165138_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Migrations\\20260116165138_InitialMigration.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Migrations\\20260116165138_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Migrations\\20260116165138_InitialMigration.cs",
+              "RelativeToolTip": "GarageApp\\Migrations\\20260116165138_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:51:38.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\appsettings.json",
+              "RelativeDocumentMoniker": "GarageApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\appsettings.json",
+              "RelativeToolTip": "GarageApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-16T16:44:19.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GarageDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Data\\GarageDbContext.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Data\\GarageDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Data\\GarageDbContext.cs",
+              "RelativeToolTip": "GarageApp\\Data\\GarageDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:13:02.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Models\\Garage.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Models\\Garage.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Models\\Garage.cs",
+              "RelativeToolTip": "GarageApp\\Models\\Garage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:10:13.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarType.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Models\\Enums\\CarType.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Models\\Enums\\CarType.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Models\\Enums\\CarType.cs",
+              "RelativeToolTip": "GarageApp\\Models\\Enums\\CarType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:08:49.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Models\\Car.cs",
+              "RelativeToolTip": "GarageApp\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:07:29.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Common\\EntityValidation.cs",
+              "RelativeToolTip": "GarageApp\\Common\\EntityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:06:47.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Program.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\Program.cs",
+              "RelativeToolTip": "GarageApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:05:48.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GarageApp\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\Controllers_and_Routing_with_EF_Core\\GarageApp\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "GarageApp\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:05:44.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
