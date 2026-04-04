@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\data\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -47,24 +63,8 @@
       "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\data\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|solutionrelative:bookshelf\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B20964C4-29D3-44F3-B83A-911C7A27E490}|Bookshelf\\Bookshelf.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharpweb-bookshelfapp-jan2026\\bookshelf\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,24 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "Bookshelf\\Views\\Books\\Create.cshtml",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\Books\\Create.cshtml",
               "RelativeToolTip": "Bookshelf\\Views\\Books\\Create.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-02T22:25:44.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_BookCard.cshtml",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\Shared\\_BookCard.cshtml",
               "RelativeDocumentMoniker": "Bookshelf\\Views\\Shared\\_BookCard.cshtml",
@@ -107,12 +107,11 @@
               "RelativeToolTip": "Bookshelf\\Views\\Shared\\_BookCard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T21:59:46.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:59:46.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "Bookshelf\\Views\\Books\\Index.cshtml",
@@ -120,25 +119,24 @@
               "RelativeToolTip": "Bookshelf\\Views\\Books\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T21:54:33.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:54:33.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Bookshelf\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Bookshelf\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T21:50:23.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\Authors\\Details.cshtml",
               "RelativeDocumentMoniker": "Bookshelf\\Views\\Authors\\Details.cshtml",
@@ -146,12 +144,11 @@
               "RelativeToolTip": "Bookshelf\\Views\\Authors\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T21:45:14.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:45:14.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Bookshelf\\Views\\Shared\\_Layout.cshtml",
@@ -159,12 +156,11 @@
               "RelativeToolTip": "Bookshelf\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T21:40:09.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:40:09.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Bookshelf\\Views\\_ViewImports.cshtml",
@@ -172,12 +168,11 @@
               "RelativeToolTip": "Bookshelf\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T21:35:30.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:35:30.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Views\\Authors\\Index.cshtml",
               "RelativeDocumentMoniker": "Bookshelf\\Views\\Authors\\Index.cshtml",
@@ -185,12 +180,11 @@
               "RelativeToolTip": "Bookshelf\\Views\\Authors\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T21:35:12.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:35:12.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Bookshelf\\Controllers\\HomeController.cs",
@@ -198,12 +192,11 @@
               "RelativeToolTip": "Bookshelf\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T21:31:44.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:31:44.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "BookConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Data\\Configurations\\BookConfiguration.cs",
               "RelativeDocumentMoniker": "Bookshelf\\Data\\Configurations\\BookConfiguration.cs",
@@ -211,12 +204,11 @@
               "RelativeToolTip": "Bookshelf\\Data\\Configurations\\BookConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T21:08:47.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T21:08:47.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AuthorConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Data\\Configurations\\AuthorConfiguration.cs",
               "RelativeDocumentMoniker": "Bookshelf\\Data\\Configurations\\AuthorConfiguration.cs",
@@ -229,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Bookshelf\\appsettings.Development.json",
@@ -237,12 +229,11 @@
               "RelativeToolTip": "Bookshelf\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-02T20:38:08.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T20:38:08.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Bookshelf\\Data\\ApplicationDbContext.cs",
@@ -255,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Bookshelf\\Models\\Book.cs",
@@ -276,8 +267,7 @@
               "RelativeToolTip": "Bookshelf\\Models\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T20:29:24.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T20:29:24.744Z"
             },
             {
               "$type": "Document",
@@ -289,8 +279,7 @@
               "RelativeToolTip": "Bookshelf\\Common\\EntityValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T20:28:11.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T20:28:11.338Z"
             },
             {
               "$type": "Document",
@@ -300,20 +289,19 @@
               "RelativeDocumentMoniker": "Bookshelf\\Controllers\\AuthorsController.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Controllers\\AuthorsController.cs",
               "RelativeToolTip": "Bookshelf\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwB8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T18:46:13.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T18:46:13.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Program.cs",
               "RelativeDocumentMoniker": "Bookshelf\\Program.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharpWeb-BookshelfApp-Jan2026\\Bookshelf\\Program.cs",
               "RelativeToolTip": "Bookshelf\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T18:44:34.317Z",
               "EditorCaption": ""
