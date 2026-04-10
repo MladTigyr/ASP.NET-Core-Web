@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Program.cs",
+              "RelativeDocumentMoniker": "WorkShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Program.cs",
+              "RelativeToolTip": "WorkShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T20:20:45.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
