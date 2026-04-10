@@ -17,4 +17,12 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.23" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WorkShop.Data.Models\WorkShop.Data.Models.csproj" />
+    <ProjectReference Include="..\WorkShop.Data\WorkShop.Data.csproj" />
+    <ProjectReference Include="..\WorkShop.GCommon\WorkShop.GCommon.csproj" />
+    <ProjectReference Include="..\WorkShop.Services.Core\WorkShop.Services.Core.csproj" />
+    <ProjectReference Include="..\WorkShop.ViewModels\WorkShop.ViewModels.csproj" />
+  </ItemGroup>
+
 </Project>

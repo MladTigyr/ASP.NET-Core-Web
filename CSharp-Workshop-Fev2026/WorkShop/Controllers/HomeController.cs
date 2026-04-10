@@ -7,7 +7,7 @@ namespace WorkShop.Controllers
     using WorkShop.ViewModels.Event;
     using Microsoft.EntityFrameworkCore;
 
-    using static Common.ParameterConstants;
+    using static GCommon.ParameterConstants;
     public class HomeController : Controller
     {
         public IActionResult Index()

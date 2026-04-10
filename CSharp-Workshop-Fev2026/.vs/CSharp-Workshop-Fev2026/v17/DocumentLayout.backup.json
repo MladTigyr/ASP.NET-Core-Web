@@ -3,91 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\viewmodels\\event\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\viewmodels\\event\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07A11EBB-8AE2-4EF7-B05D-9A0516702012}|WorkShop.Services.Core\\WorkShop.Services.Core.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.services.core\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A11EBB-8AE2-4EF7-B05D-9A0516702012}|WorkShop.Services.Core\\WorkShop.Services.Core.csproj|solutionrelative:workshop.services.core\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\viewmodels\\event\\eventallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\viewmodels\\event\\eventallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\viewmodels\\event\\eventaddinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\viewmodels\\event\\eventaddinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\event\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\event\\joined.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\event\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\event\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07A11EBB-8AE2-4EF7-B05D-9A0516702012}|WorkShop.Services.Core\\WorkShop.Services.Core.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.services.core\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A11EBB-8AE2-4EF7-B05D-9A0516702012}|WorkShop.Services.Core\\WorkShop.Services.Core.csproj|solutionrelative:workshop.services.core\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAC33CA-97D9-42FD-B1E4-80D734B28CF2}|WorkShop.ViewModels\\WorkShop.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.viewmodels\\event\\eventallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAC33CA-97D9-42FD-B1E4-80D734B28CF2}|WorkShop.ViewModels\\WorkShop.ViewModels.csproj|solutionrelative:workshop.viewmodels\\event\\eventallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8427CF5-81F3-4EAA-9607-AAC201F43AD5}|WorkShop.Data\\WorkShop.Data.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8427CF5-81F3-4EAA-9607-AAC201F43AD5}|WorkShop.Data\\WorkShop.Data.csproj|solutionrelative:workshop.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAC33CA-97D9-42FD-B1E4-80D734B28CF2}|WorkShop.ViewModels\\WorkShop.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.viewmodels\\event\\eventaddinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAC33CA-97D9-42FD-B1E4-80D734B28CF2}|WorkShop.ViewModels\\WorkShop.ViewModels.csproj|solutionrelative:workshop.viewmodels\\event\\eventaddinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.data.models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|solutionrelative:workshop.data.models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.data.models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|solutionrelative:workshop.data.models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.data.models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|solutionrelative:workshop.data.models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.data.models\\workshop.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B955792-1729-45A5-8918-0759EAAE5086}|WorkShop.Data.Models\\WorkShop.Data.Models.csproj|solutionrelative:workshop.data.models\\workshop.data.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A746941F-8BC0-44D9-9F26-D6FE27936F6F}|WorkShop.GCommon\\WorkShop.GCommon.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.gcommon\\parameterconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A746941F-8BC0-44D9-9F26-D6FE27936F6F}|WorkShop.GCommon\\WorkShop.GCommon.csproj|solutionrelative:workshop.gcommon\\parameterconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAC33CA-97D9-42FD-B1E4-80D734B28CF2}|WorkShop.ViewModels\\WorkShop.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.viewmodels\\event\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAC33CA-97D9-42FD-B1E4-80D734B28CF2}|WorkShop.ViewModels\\WorkShop.ViewModels.csproj|solutionrelative:workshop.viewmodels\\event\\eventdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A746941F-8BC0-44D9-9F26-D6FE27936F6F}|WorkShop.GCommon\\WorkShop.GCommon.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop.gcommon\\modelsvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A746941F-8BC0-44D9-9F26-D6FE27936F6F}|WorkShop.GCommon\\WorkShop.GCommon.csproj|solutionrelative:workshop.gcommon\\modelsvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-workshop-fev2026\\workshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D3D7C29-888F-479A-B499-F80864FAD33B}|WorkShop\\WorkShop.csproj|solutionrelative:workshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,279 +82,241 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAkwGkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T14:18:22.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T14:16:26.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T14:16:25.869Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\appsettings.json",
+              "RelativeToolTip": "WorkShop\\appsettings.json",
+              "ViewState": "AgIAAAIAAABwzoUlhuYvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T22:08:15.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T14:13:25.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "WorkShop\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WorkShop\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\appsettings.Development.json",
+              "RelativeToolTip": "WorkShop\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T14:13:10.059Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T22:08:15.032Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "WorkShop\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T14:12:38.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAACcTAAAAAAAAAAAvwDMTAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-04-10T14:09:14.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EventDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\ViewModels\\Event\\EventDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "WorkShop\\ViewModels\\Event\\EventDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\ViewModels\\Event\\EventDetailsViewModel.cs",
-              "RelativeToolTip": "WorkShop\\ViewModels\\Event\\EventDetailsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T14:00:20.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Details.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Event\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Details.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Event\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T13:32:40.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Joined.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Joined.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Event\\Joined.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Joined.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Event\\Joined.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T12:29:26.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Event\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Edit.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Event\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBwAAACDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T12:05:15.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Type.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Models\\Type.cs",
-              "RelativeDocumentMoniker": "WorkShop\\Models\\Type.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Models\\Type.cs",
-              "RelativeToolTip": "WorkShop\\Models\\Type.cs",
+              "Title": "WorkShop.Data.Models",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
+              "RelativeDocumentMoniker": "WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
+              "RelativeToolTip": "WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-10T21:03:15.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Services.Core\\EventService.cs",
+              "RelativeDocumentMoniker": "WorkShop.Services.Core\\EventService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Services.Core\\EventService.cs",
+              "RelativeToolTip": "WorkShop.Services.Core\\EventService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwK4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:59:01.065Z"
+              "WhenOpened": "2026-04-10T18:42:34.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EventParticipant.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Models\\EventParticipant.cs",
-              "RelativeDocumentMoniker": "WorkShop\\Models\\EventParticipant.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Models\\EventParticipant.cs",
-              "RelativeToolTip": "WorkShop\\Models\\EventParticipant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:59:04.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "WorkShop\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Models\\Event.cs",
-              "RelativeToolTip": "WorkShop\\Models\\Event.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:44:33.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EventAddInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\ViewModels\\Event\\EventAddInputModel.cs",
-              "RelativeDocumentMoniker": "WorkShop\\ViewModels\\Event\\EventAddInputModel.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\ViewModels\\Event\\EventAddInputModel.cs",
-              "RelativeToolTip": "WorkShop\\ViewModels\\Event\\EventAddInputModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:24:06.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Add.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Event\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\Add.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Event\\Add.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T11:22:28.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "WorkShop\\Controllers\\EventController.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Controllers\\EventController.cs",
               "RelativeToolTip": "WorkShop\\Controllers\\EventController.cs",
-              "ViewState": "AgIAAD4BAAAAAAAAAAAmwEkBAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:13:52.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "WorkShop\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T11:11:54.584Z",
+              "WhenOpened": "2026-04-10T17:54:47.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EventAllViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\ViewModels\\Event\\EventAllViewModel.cs",
-              "RelativeDocumentMoniker": "WorkShop\\ViewModels\\Event\\EventAllViewModel.cs",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\ViewModels\\Event\\EventAllViewModel.cs",
-              "RelativeToolTip": "WorkShop\\ViewModels\\Event\\EventAllViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Services.Core\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "WorkShop.Services.Core\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Services.Core\\Interfaces\\IEventService.cs*",
+              "RelativeToolTip": "WorkShop.Services.Core\\Interfaces\\IEventService.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T11:03:41.991Z"
+              "WhenOpened": "2026-04-10T18:31:51.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "All.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\All.cshtml",
-              "RelativeDocumentMoniker": "WorkShop\\Views\\Event\\All.cshtml",
-              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\Event\\All.cshtml",
-              "RelativeToolTip": "WorkShop\\Views\\Event\\All.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T11:02:32.975Z"
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WorkShop.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WorkShop.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:20:57.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WorkShop\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WorkShop\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T20:52:01.078Z"
+              "WhenOpened": "2026-04-10T18:17:05.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 10,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\EventType.cs",
+              "RelativeDocumentMoniker": "WorkShop.Data.Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\EventType.cs",
+              "RelativeToolTip": "WorkShop.Data.Models\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:59:03.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\EventParticipant.cs",
+              "RelativeDocumentMoniker": "WorkShop.Data.Models\\EventParticipant.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\EventParticipant.cs",
+              "RelativeToolTip": "WorkShop.Data.Models\\EventParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:58:56.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\Event.cs",
+              "RelativeDocumentMoniker": "WorkShop.Data.Models\\Event.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\Event.cs",
+              "RelativeToolTip": "WorkShop.Data.Models\\Event.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA9wCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:58:29.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParameterConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.GCommon\\ParameterConstants.cs",
+              "RelativeDocumentMoniker": "WorkShop.GCommon\\ParameterConstants.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.GCommon\\ParameterConstants.cs",
+              "RelativeToolTip": "WorkShop.GCommon\\ParameterConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:52:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelsValidations.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.GCommon\\ModelsValidations.cs",
+              "RelativeDocumentMoniker": "WorkShop.GCommon\\ModelsValidations.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.GCommon\\ModelsValidations.cs",
+              "RelativeToolTip": "WorkShop.GCommon\\ModelsValidations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:52:22.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventAddInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.ViewModels\\Event\\EventAddInputModel.cs",
+              "RelativeDocumentMoniker": "WorkShop.ViewModels\\Event\\EventAddInputModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.ViewModels\\Event\\EventAddInputModel.cs",
+              "RelativeToolTip": "WorkShop.ViewModels\\Event\\EventAddInputModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:51:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.ViewModels\\Event\\EventDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WorkShop.ViewModels\\Event\\EventDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.ViewModels\\Event\\EventDetailsViewModel.cs",
+              "RelativeToolTip": "WorkShop.ViewModels\\Event\\EventDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:51:32.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventAllViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.ViewModels\\Event\\EventAllViewModel.cs",
+              "RelativeDocumentMoniker": "WorkShop.ViewModels\\Event\\EventAllViewModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.ViewModels\\Event\\EventAllViewModel.cs",
+              "RelativeToolTip": "WorkShop.ViewModels\\Event\\EventAllViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:51:30.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WorkShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WorkShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T17:50:12.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Program.cs",
               "RelativeDocumentMoniker": "WorkShop\\Program.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Program.cs",
               "RelativeToolTip": "WorkShop\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T20:20:45.897Z"
+              "WhenOpened": "2026-04-09T20:20:45.897Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkShop.Data\WorkShop.Data.csproj" />
+    <ProjectReference Include="..\WorkShop.GCommon\WorkShop.GCommon.csproj" />
+    <ProjectReference Include="..\WorkShop.ViewModels\WorkShop.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

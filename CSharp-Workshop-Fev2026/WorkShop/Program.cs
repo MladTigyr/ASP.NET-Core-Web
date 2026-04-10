@@ -1,9 +1,11 @@
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using WorkShop.Data;
-
 namespace WorkShop
 {
+    using Microsoft.AspNetCore.Identity;
+    using Microsoft.EntityFrameworkCore;
+    using WorkShop.Data;
+    using WorkShop.Services.Core;
+    using WorkShop.Services.Core.Interfaces;
+
     public class Program
     {
         public static void Main(string[] args)
@@ -17,6 +19,10 @@ namespace WorkShop
                 options.UseSqlServer(connectionString));
 
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+            //Equivelent to IEventService eventService = new EventService(dbContext)
+            //=> we are adding the service to the DI container and it will be created when needed.
+            builder.Services.AddScoped<IEventService, EventService>();
 
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();

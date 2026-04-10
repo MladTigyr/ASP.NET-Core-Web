@@ -288,3 +288,13 @@ C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin
 C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.Data.Models.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.GCommon.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.ViewModels.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.Data.Models.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.GCommon.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.ViewModels.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.Data.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.Data.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.Services.Core.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop\bin\Debug\net8.0\WorkShop.Services.Core.pdb

@@ -13,7 +13,12 @@
           "Microsoft.AspNetCore.Identity.UI": "8.0.23",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.23",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.23",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.23"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.23",
+          "WorkShop.Data": "1.0.0",
+          "WorkShop.Data.Models": "1.0.0",
+          "WorkShop.GCommon": "1.0.0",
+          "WorkShop.Services.Core": "1.0.0",
+          "WorkShop.ViewModels": "1.0.0"
         },
         "runtime": {
           "WorkShop.dll": {}
@@ -1955,6 +1960,63 @@
             "fileVersion": "8.0.23.53103"
           }
         }
+      },
+      "WorkShop.Data/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.23",
+          "WorkShop.Data.Models": "1.0.0"
+        },
+        "runtime": {
+          "WorkShop.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WorkShop.Data.Models/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.23",
+          "WorkShop.GCommon": "1.0.0"
+        },
+        "runtime": {
+          "WorkShop.Data.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WorkShop.GCommon/1.0.0": {
+        "runtime": {
+          "WorkShop.GCommon.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WorkShop.Services.Core/1.0.0": {
+        "dependencies": {
+          "WorkShop.Data": "1.0.0",
+          "WorkShop.GCommon": "1.0.0",
+          "WorkShop.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "WorkShop.Services.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WorkShop.ViewModels/1.0.0": {
+        "dependencies": {
+          "WorkShop.Data.Models": "1.0.0",
+          "WorkShop.GCommon": "1.0.0"
+        },
+        "runtime": {
+          "WorkShop.ViewModels.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -2936,6 +2998,31 @@
       "sha512": "sha512-+TUFINV2q2ifyXauQXRwy4CiBhqvDEDZeVJU7qfxya4aRYOKzVBpN+4acx25VcPB9ywUN6C0n8drWl110PhZEg==",
       "path": "system.security.cryptography.protecteddata/8.0.0",
       "hashPath": "system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+    },
+    "WorkShop.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkShop.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkShop.GCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkShop.Services.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkShop.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

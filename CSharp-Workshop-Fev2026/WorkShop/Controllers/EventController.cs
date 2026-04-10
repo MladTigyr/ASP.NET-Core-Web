@@ -4,19 +4,19 @@
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.EntityFrameworkCore;
     using System.Security.Claims;
-    using WorkShop.Data;
-    using WorkShop.Models;
+    using System.Threading.Tasks;
+    using WorkShop.Data.Models;
+    using WorkShop.Services.Core.Interfaces;
     using WorkShop.ViewModels.Event;
 
-    using static Common.ParameterConstants;
 
     public class EventController : Controller
     {
-        private readonly ApplicationDbContext dbContext;
+        private readonly IEventService eventService;
 
-        public EventController(ApplicationDbContext dbContext)
+        public EventController(IEventService eventService)
         {
-            this.dbContext = dbContext;
+            this.eventService = eventService;
         }
 
         public IActionResult Index()
@@ -25,79 +25,63 @@
         }
 
         [HttpGet]
-        public IActionResult All()
+        public async Task<IActionResult> All()
         {
-            IEnumerable<EventAllViewModel> eventAllViewModel = dbContext.Events
-                .Include(e => e.Type)
-                .AsNoTracking()
-                .OrderBy(e => e.Name)
-                .ThenBy(e => e.Start)
-                .Select(e => new EventAllViewModel
-                {
-                    Id = e.Id,
-                    Name = e.Name,
-                    Start = e.Start.ToString(FormatForDates),
-                    Type = e.Type.Name,
-                    Organiser = e.Organiser.UserName
-                })
-                .ToArray();
+            IEnumerable<EventAllViewModel>? eventAllViewModel = await eventService
+                .GetAllEventsOrderedByNameThenByStartAscAsync();
+
+            if (eventAllViewModel == null)
+            {
+                return NotFound();
+            }
 
             return View(eventAllViewModel);
         }
 
         [HttpGet]
         [Authorize]
-        public IActionResult Add()
+        public async Task<IActionResult> Add()
         {
-            EventAddInputModel eventAddInputModel = new EventAddInputModel
-            {
-                Types = GetTypes()
-            };
+            EventAddInputModel eventAddInputModel = await eventService
+                .EventAddInputModelAsync();
 
             return View(eventAddInputModel);
         }
 
         [HttpPost]
         [Authorize]
-        public IActionResult Add(EventAddInputModel eventAddInputModel)
+        public async Task<IActionResult> Add(EventAddInputModel eventAddInputModel)
         {
-            IEnumerable<Type> types = GetTypes();
+            eventAddInputModel.Types = await eventService
+                .GetTypesAsync();
 
             if (!ModelState.IsValid)
             {
-                eventAddInputModel.Types = types;
                 return View(eventAddInputModel);
             }
 
-            if (!types.Any(t => t.Id == eventAddInputModel.TypeId))
+            if (!eventAddInputModel.Types.Any(t => t.Id == eventAddInputModel.TypeId))
             {
                 ModelState.AddModelError(nameof(eventAddInputModel.TypeId), "Invalid type selected.");
 
-                eventAddInputModel.Types = types;
                 return View(eventAddInputModel);
+            }
+
+            string? userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            if (string.IsNullOrEmpty(userId))
+            {
+                return Unauthorized();
             }
 
             try
             {
-                Event eventToAdd = new Event
-                {
-                    Name = eventAddInputModel.Name,
-                    Description = eventAddInputModel.Description,
-                    CreatedOn = DateTime.UtcNow,
-                    Start = eventAddInputModel.Start,
-                    End = eventAddInputModel.End,
-                    TypeId = eventAddInputModel.TypeId,
-                    OrganiserId = User.FindFirstValue(ClaimTypes.NameIdentifier)
-                };
-
-                dbContext.Events.Add(eventToAdd);
-                dbContext.SaveChanges();
+                await eventService.AddEventAsync(eventAddInputModel, userId);
             }
             catch (Exception e)
             {
                 ModelState.AddModelError(string.Empty, "An error occured while creating the event.");
 
-                eventAddInputModel.Types = types;
                 return View(eventAddInputModel);
             }
 
@@ -106,45 +90,48 @@
 
         [HttpGet]
         [Authorize]
-        public IActionResult Edit(int id)
+        public async Task<IActionResult> Edit(int id)
         {
             if (id <= 0)
             {
                 return BadRequest();
             }
 
-            Event? eventToEdit = dbContext.Events
-                .AsNoTracking()
-                .FirstOrDefault(e => e.Id == id);
+            Event? eventToEdit = await eventService.GetEventAsync(id);
 
             if (eventToEdit == null)
             {
                 return NotFound();
             }
 
-            EventAddInputModel model = new EventAddInputModel()
+            string? userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            if (string.IsNullOrEmpty(userId))
             {
-                Name = eventToEdit.Name,
-                Description = eventToEdit.Description,
-                Start = eventToEdit.Start,
-                End = eventToEdit.End,
-                TypeId = eventToEdit.TypeId,
-                Types = GetTypes()
-            };
+                return Unauthorized();
+            }
+
+            if (eventToEdit.OrganiserId != userId)
+            {
+                return Unauthorized();
+            }
+
+            EventAddInputModel model = await eventService
+                .EventEditWithGivenParams(id);
 
             return View(model);
         }
 
         [HttpPost]
         [Authorize]
-        public IActionResult Edit(int id, EventAddInputModel eventAddInputModel)
+        public async Task<IActionResult> Edit(int id, EventAddInputModel eventAddInputModel)
         {
             if (id <= 0)
             {
                 return BadRequest();
             }
 
-            IEnumerable<Type> types = GetTypes();
+            IEnumerable<EventType> types = await eventService.GetTypesAsync();
 
             if (!ModelState.IsValid)
             {
@@ -160,8 +147,7 @@
                 return View(eventAddInputModel);
             }
 
-            Event? eventToEdit = dbContext.Events
-                .SingleOrDefault(e => e.Id == id);
+            Event? eventToEdit = await eventService.GetEventAsync(id);
 
             if (eventToEdit == null)
             {
@@ -169,6 +155,7 @@
             }
 
             string currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier)!;
+
             if (string.IsNullOrEmpty(currentUserId))
             {
                 return Unauthorized();
@@ -179,20 +166,23 @@
                 return Unauthorized();
             }
 
-            eventToEdit.Name = eventAddInputModel.Name;
-            eventToEdit.Description = eventAddInputModel.Description;
-            eventToEdit.Start = eventAddInputModel.Start;
-            eventToEdit.End = eventAddInputModel.End;
-            eventToEdit.TypeId = eventAddInputModel.TypeId;
-
-            dbContext.SaveChanges();
+            try
+            {
+                await eventService.EventEditInDb(id, eventAddInputModel);
+            }
+            catch
+            {
+                ModelState.AddModelError(string.Empty, "An error occured while editing the event.");
+                eventAddInputModel.Types = types;
+                return View(eventAddInputModel);
+            }
 
             return RedirectToAction(nameof(All));
         }
 
         [HttpPost]
         [Authorize]
-        public IActionResult Join(int id)
+        public async Task<IActionResult> Join(int id)
         {
             if (id <= 0)
             {
@@ -206,9 +196,7 @@
                 return Unauthorized();
             }
 
-            Event? eventToJoin = dbContext.Events
-                .Include(e => e.EventsParticipants)
-                .FirstOrDefault(e => e.Id == id);
+            Event? eventToJoin = await eventService.GetEventAsync(id);
 
             if (eventToJoin == null)
             {
@@ -222,21 +210,13 @@
                 return BadRequest();
             }
 
-            bool alreadyJoined = eventToJoin.EventsParticipants
-                .Any(ep => ep.HelperId == userId);
+            bool alreadyJoined = await eventService.IsUserAlreadyJoinedInEventAsync(eventToJoin, userId);
 
             if (!alreadyJoined)
             {
                 try
                 {
-                    EventParticipant eventParticipant = new EventParticipant
-                    {
-                        EventId = id,
-                        HelperId = userId
-                    };
-                    eventToJoin.EventsParticipants.Add(eventParticipant);
-
-                    dbContext.SaveChanges();
+                    await eventService.EventParticipentAddToDBAsync(eventToJoin, userId);
                 }
                 catch 
                 {
@@ -249,7 +229,7 @@
 
         [HttpGet]
         [Authorize]
-        public IActionResult Joined()
+        public async Task<IActionResult> Joined()
         {
             string? userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             if (string.IsNullOrEmpty(userId))
@@ -257,29 +237,15 @@
                 return Unauthorized();
             }
 
-            IEnumerable<EventAllViewModel> eventAllViewModel = dbContext.Events
-                .Include(e => e.Type)
-                .Include(e => e.EventsParticipants)
-                .AsNoTracking()
-                .Where(e => e.EventsParticipants.Any(ep => ep.HelperId == userId))
-                .OrderBy(e => e.Name)
-                .ThenBy(e => e.Start)
-                .Select(e => new EventAllViewModel
-                {
-                    Id = e.Id,
-                    Name = e.Name,
-                    Start = e.Start.ToString(FormatForDates),
-                    Type = e.Type.Name,
-                    Organiser = e.Organiser.UserName!
-                })
-                .ToArray();
+            IEnumerable<EventAllViewModel> eventAllViewModel = await eventService
+                .GetAllEventsJoinedByUser(userId);
 
             return View(eventAllViewModel);
         }
 
         [HttpPost]
         [Authorize]
-        public IActionResult Leave(int id)
+        public async Task<IActionResult> Leave(int id)
         {
             if (id <= 0)
             {
@@ -293,18 +259,17 @@
                 return Unauthorized();
             }
 
-            EventParticipant? eventParticipant = dbContext.EventsParticipants
-                    .SingleOrDefault(ep => ep.EventId == id && ep.HelperId == userId);
+            EventParticipant? eventParticipant = await eventService
+                .GetAllEventParticipentWithProvidedParams(id, userId);
 
             if (eventParticipant == null)
             {
-                return BadRequest();
+                return RedirectToAction(nameof(Joined));
             }
 
             try
             {
-                dbContext.EventsParticipants.Remove(eventParticipant);
-                dbContext.SaveChanges();
+                await eventService.RemoveEventParticipent(eventParticipant);
             }
             catch
             {
@@ -317,57 +282,17 @@
         }
 
         [HttpGet]
-        public IActionResult Details(int id)
+        public async Task<IActionResult> Details(int id)
         {
-            if (id <= 0)
-            {
-                return BadRequest();
-            }
+            EventDetailsViewModel eventDetailsViewModel = await eventService
+                .GetEventWithItsDetailsAsync(id);
 
-            Event? eventDetails = dbContext.Events
-                .AsNoTracking()
-                .Include(e => e.Type)
-                .Include(e => e.Organiser)
-                .SingleOrDefault(e => e.Id == id);
-
-            if (eventDetails == null)
+            if (eventDetailsViewModel == null)
             {
                 return NotFound();
             }
 
-            EventDetailsViewModel eventDetailsViewModel = new EventDetailsViewModel
-            {
-                Name = eventDetails.Name,
-                Description = eventDetails.Description,
-                Start = eventDetails.Start.ToString(FormatForDates),
-                End = eventDetails.End.ToString(FormatForDates),
-                Type = eventDetails.Type.Name,
-                Organiser = eventDetails.Organiser.UserName!,
-                CreatedOn = eventDetails.CreatedOn.ToString(FormatForDates)
-            };
-
             return View(eventDetailsViewModel);
-        }
-
-        private IEnumerable<Type> GetTypes()
-        {
-            IEnumerable<Type> types = dbContext.Types
-                .AsNoTracking()
-                .OrderBy(t => t.Name)
-                .ToArray();
-
-            return types;
-        }
-
-        private IEnumerable<Event> GetEvents()
-        {
-            IEnumerable<Event> events = dbContext.Events
-                .AsNoTracking()
-                .OrderBy(e => e.Name)
-                .ThenBy(e => e.Start)
-                .ToArray();
-
-            return events;
         }
     }
 }

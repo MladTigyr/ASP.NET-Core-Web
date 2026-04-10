@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\bin\Debug\net8.0\WorkShop.GCommon.deps.json
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\bin\Debug\net8.0\WorkShop.GCommon.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\bin\Debug\net8.0\WorkShop.GCommon.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\WorkShop.GCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\WorkShop.GCommon.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\WorkShop.GCommon.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\WorkShop.GCommon.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\WorkShop.GCommon.sourcelink.json
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\WorkShop.GCommon.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\refint\WorkShop.GCommon.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\WorkShop.GCommon.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Workshop-Fev2026\WorkShop.GCommon\obj\Debug\net8.0\ref\WorkShop.GCommon.dll
