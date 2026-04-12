@@ -94,8 +94,7 @@
               "RelativeToolTip": "WorkShop\\appsettings.json",
               "ViewState": "AgIAAAIAAABwzoUlhuYvwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T22:08:15.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T22:08:15.645Z"
             },
             {
               "$type": "Document",
@@ -107,21 +106,19 @@
               "RelativeToolTip": "WorkShop\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T22:08:15.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T22:08:15.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "WorkShop.Data.Models",
+              "Title": "WorkShop.Data.Models.csproj",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
               "RelativeDocumentMoniker": "WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
               "RelativeToolTip": "WorkShop.Data.Models\\WorkShop.Data.Models.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-10T21:03:15.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T21:03:15.546Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "WorkShop.Services.Core\\EventService.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAIwK4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:42:34.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T18:42:34.058Z"
             },
             {
               "$type": "Document",
@@ -144,7 +140,7 @@
               "RelativeDocumentMoniker": "WorkShop\\Controllers\\EventController.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Workshop-Fev2026\\WorkShop\\Controllers\\EventController.cs",
               "RelativeToolTip": "WorkShop\\Controllers\\EventController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T17:54:47.055Z",
               "EditorCaption": ""
@@ -159,8 +155,7 @@
               "RelativeToolTip": "WorkShop.Services.Core\\Interfaces\\IEventService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:31:51.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T18:31:51.582Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "WorkShop.Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:20:57.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T18:20:57.514Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "WorkShop\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T18:17:05.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T18:17:05.205Z"
             },
             {
               "$type": "Document",
@@ -198,8 +191,7 @@
               "RelativeToolTip": "WorkShop.Data.Models\\EventType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:59:03.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:59:03.202Z"
             },
             {
               "$type": "Document",
@@ -211,8 +203,7 @@
               "RelativeToolTip": "WorkShop.Data.Models\\EventParticipant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:58:56.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:58:56.95Z"
             },
             {
               "$type": "Document",
@@ -224,8 +215,7 @@
               "RelativeToolTip": "WorkShop.Data.Models\\Event.cs",
               "ViewState": "AgIAABEAAAAAAAAAAIA9wCwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:58:29.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:58:29.979Z"
             },
             {
               "$type": "Document",
@@ -237,8 +227,7 @@
               "RelativeToolTip": "WorkShop.GCommon\\ParameterConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:52:28.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:52:28.095Z"
             },
             {
               "$type": "Document",
@@ -250,8 +239,7 @@
               "RelativeToolTip": "WorkShop.GCommon\\ModelsValidations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:52:22.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:52:22.768Z"
             },
             {
               "$type": "Document",
@@ -263,8 +251,7 @@
               "RelativeToolTip": "WorkShop.ViewModels\\Event\\EventAddInputModel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA5wBsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:51:32.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:51:32.855Z"
             },
             {
               "$type": "Document",
@@ -276,8 +263,7 @@
               "RelativeToolTip": "WorkShop.ViewModels\\Event\\EventDetailsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:51:32.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:51:32.007Z"
             },
             {
               "$type": "Document",
@@ -289,8 +275,7 @@
               "RelativeToolTip": "WorkShop.ViewModels\\Event\\EventAllViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T17:51:30.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:51:30.083Z"
             },
             {
               "$type": "Document",
@@ -302,8 +287,7 @@
               "RelativeToolTip": "WorkShop\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T17:50:12.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T17:50:12.738Z"
             },
             {
               "$type": "Document",
@@ -315,8 +299,7 @@
               "RelativeToolTip": "WorkShop\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T20:20:45.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T20:20:45.897Z"
             }
           ]
         }

@@ -1,0 +1,37 @@
+﻿@model List<AllNotesViewModel>
+
+<h2>My Notes</h2>
+
+<div class="mb-3">
+    <a asp-action="Create" class="btn btn-primary">Create Note</a>
+</div>
+
+@if (!Model.Any())
+{
+    <p>No notes yet.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Created On</th>
+                <th style="width: 220px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var note in Model)
+            {
+                <tr>
+                    <td>@note.Title</td>
+                    <td>@note.CreatedOn.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@note.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@note.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

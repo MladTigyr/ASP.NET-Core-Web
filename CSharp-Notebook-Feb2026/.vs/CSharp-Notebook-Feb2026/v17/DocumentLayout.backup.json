@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35727520-4C9A-49AC-A44B-DBE9C5F09B09}|Notebook.Services\\Notebook.Services.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook.services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35727520-4C9A-49AC-A44B-DBE9C5F09B09}|Notebook.Services\\Notebook.Services.csproj|solutionrelative:notebook.services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35727520-4C9A-49AC-A44B-DBE9C5F09B09}|Notebook.Services\\Notebook.Services.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook.services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35727520-4C9A-49AC-A44B-DBE9C5F09B09}|Notebook.Services\\Notebook.Services.csproj|solutionrelative:notebook.services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook.viewmodels\\note\\editnoteinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|solutionrelative:notebook.viewmodels\\note\\editnoteinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\views\\note\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\views\\note\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook.viewmodels\\note\\deletenoteinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|solutionrelative:notebook.viewmodels\\note\\deletenoteinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\views\\note\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\views\\note\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\views\\note\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\views\\note\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\views\\note\\mynotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\views\\note\\mynotes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook.viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|solutionrelative:notebook.viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook.viewmodels\\note\\allnotesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|solutionrelative:notebook.viewmodels\\note\\allnotesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{975B5B5D-F133-4083-916C-B893362CF892}|Notebook\\Notebook.csproj|solutionrelative:notebook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|c:\\users\\alex\\source\\repos\\asp.net core web\\csharp-notebook-feb2026\\notebook.viewmodels\\note\\createnoteinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C367F9-1547-462B-8E51-3B42E685879C}|Notebook.ViewModels\\Notebook.ViewModels.csproj|solutionrelative:notebook.viewmodels\\note\\createnoteinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Program.cs",
+              "RelativeDocumentMoniker": "Notebook\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Program.cs",
+              "RelativeToolTip": "Notebook\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T23:02:38.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "Notebook.Services\\NoteService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.Services\\NoteService.cs",
+              "RelativeToolTip": "Notebook.Services\\NoteService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3sAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T22:22:00.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.Services\\Interfaces\\INoteService.cs",
+              "RelativeDocumentMoniker": "Notebook.Services\\Interfaces\\INoteService.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.Services\\Interfaces\\INoteService.cs",
+              "RelativeToolTip": "Notebook.Services\\Interfaces\\INoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T22:20:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Notebook.ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "Notebook.ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T22:09:48.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteNoteInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\DeleteNoteInputModel.cs",
+              "RelativeDocumentMoniker": "Notebook.ViewModels\\Note\\DeleteNoteInputModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\DeleteNoteInputModel.cs",
+              "RelativeToolTip": "Notebook.ViewModels\\Note\\DeleteNoteInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T22:03:37.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Notebook\\Views\\Note\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\Delete.cshtml",
+              "RelativeToolTip": "Notebook\\Views\\Note\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T22:02:42.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditNoteInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\EditNoteInputModel.cs",
+              "RelativeDocumentMoniker": "Notebook.ViewModels\\Note\\EditNoteInputModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\EditNoteInputModel.cs",
+              "RelativeToolTip": "Notebook.ViewModels\\Note\\EditNoteInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:54:08.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Notebook\\Views\\Note\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\Edit.cshtml",
+              "RelativeToolTip": "Notebook\\Views\\Note\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T21:53:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Notebook\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Notebook\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:50:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Notebook\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Notebook\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:48:50.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Notebook\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Notebook\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T21:48:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateNoteInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\CreateNoteInputModel.cs",
+              "RelativeDocumentMoniker": "Notebook.ViewModels\\Note\\CreateNoteInputModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\CreateNoteInputModel.cs",
+              "RelativeToolTip": "Notebook.ViewModels\\Note\\CreateNoteInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:44:43.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\Create.cshtml",
+              "RelativeDocumentMoniker": "Notebook\\Views\\Note\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\Create.cshtml",
+              "RelativeToolTip": "Notebook\\Views\\Note\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T21:43:30.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "Notebook\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "Notebook\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:38:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyNotes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\MyNotes.cshtml",
+              "RelativeDocumentMoniker": "Notebook\\Views\\Note\\MyNotes.cshtml",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook\\Views\\Note\\MyNotes.cshtml",
+              "RelativeToolTip": "Notebook\\Views\\Note\\MyNotes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T21:33:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllNotesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\AllNotesViewModel.cs",
+              "RelativeDocumentMoniker": "Notebook.ViewModels\\Note\\AllNotesViewModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ASP.NET Core Web\\CSharp-Notebook-Feb2026\\Notebook.ViewModels\\Note\\AllNotesViewModel.cs",
+              "RelativeToolTip": "Notebook.ViewModels\\Note\\AllNotesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T21:31:12.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

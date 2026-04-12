@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\bin\Debug\net8.0\Notebook.Data.Models.deps.json
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\bin\Debug\net8.0\Notebook.Data.Models.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\bin\Debug\net8.0\Notebook.Data.Models.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\bin\Debug\net8.0\Notebook.GCommon.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\bin\Debug\net8.0\Notebook.GCommon.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.sourcelink.json
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.25C8C7F3.Up2Date
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\refint\Notebook.Data.Models.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\Notebook.Data.Models.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.Data.Models\obj\Debug\net8.0\ref\Notebook.Data.Models.dll

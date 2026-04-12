@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Notebook.Data.Models\Notebook.Data.Models.csproj" />
+    <ProjectReference Include="..\Notebook.Data\Notebook.Data.csproj" />
+    <ProjectReference Include="..\Notebook.ViewModels\Notebook.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

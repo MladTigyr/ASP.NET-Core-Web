@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\bin\Debug\net8.0\Notebook.ViewModels.deps.json
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\bin\Debug\net8.0\Notebook.ViewModels.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\bin\Debug\net8.0\Notebook.ViewModels.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\bin\Debug\net8.0\Notebook.GCommon.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\bin\Debug\net8.0\Notebook.GCommon.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.sourcelink.json
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.C0F559D4.Up2Date
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\refint\Notebook.ViewModels.dll
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\Notebook.ViewModels.pdb
+C:\Users\Alex\source\repos\ASP.NET Core Web\CSharp-Notebook-Feb2026\Notebook.ViewModels\obj\Debug\net8.0\ref\Notebook.ViewModels.dll
